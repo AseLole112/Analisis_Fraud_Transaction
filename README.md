@@ -1,4 +1,6 @@
-Ini adalah proyek deteksi fraud (penipuan) pada transaksi keuangan. Di mana sistem ini sebagai "satpam digital" yang bekerja 24/7 untuk mengecek setiap transaksi yang masuk dan memberikan peringatan jika ada sesuatu yang terlihat tidak beres.
+Fraud transaction adalah transaksi palsu (penipuan) yang terjadi pada transaksi keuangan. Hal ini merupakan suatu hal yang sangat penting untuk dicegah dimana kita sebagai manusia membutuhkan uang dalam memenuhi kebutuhan hidup kita sehari-hari. Dan bukan suatu hal yang tidak mungkin di zaman serba canggih ini kita menggunakan transaksi transfer sebagai sarana transaksi. Dan seiring banyak digunakannya transaksi transfer tersebut, banyak oknum yang memanfaatkan hal ini untuk menipu orang lain. 
+
+Analisis Fraud Transaction Detection adalah proyek deteksi fraud (penipuan) pada transaksi keuangan. Di mana sistem ini sebagai "satpam digital" yang bekerja 24/7 untuk mengecek setiap transaksi yang masuk dan memberikan peringatan jika ada sesuatu yang terlihat tidak beres.
 
 Apa yang Dilakukan Proyek Ini?
 Proyek ini mengubah model Machine Learning yang rumit menjadi sebuah API (Application Programming Interface) yang bisa diakses dari mana saja.
